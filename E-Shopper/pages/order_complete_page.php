@@ -1,0 +1,1 @@
+<h1>Congratulations!! Dear <?php echo $_SESSION['customer_name']; ?> , Your valuable order successfully completed. We will contact and deliver your order soon.</h1>
